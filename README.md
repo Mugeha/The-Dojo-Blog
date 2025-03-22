@@ -10,7 +10,7 @@ Backend: NodeJs
 Frontend: HTML, CSS, ReactJS
 Database: JSON server
 
-🚀 Features
+🚀 Features\n
 ✅ Add new blogs with title, description, and author.
 ❌ Delete blog
 🗂️ View all tasks
