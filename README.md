@@ -1,9 +1,24 @@
-# Getting Started with Create React App
+Dojo-Blog (React)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+📌 Overview
+This is a Dojo Blog web application built using the ReactJS. The app allows users to add, edit, delete, and manage blogs.
 
+🛠️ Tech Stack
+Backend: NodeJs
+Frontend: HTML, CSS, ReactJS
+Database: JSON server
+
+🚀 Features
+✅ Add new blogs with title, description, and author.
+❌ Delete blog
+🗂️ View all tasks
+
+How it looks:
+
+
+## Available Scripts
 In the project directory, you can run:
 
 ### `npm start`
